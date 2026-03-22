@@ -1,0 +1,24 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Code::Blocks project user files
+*.layout
+*.depend
+
+# Build directories
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
